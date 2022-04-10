@@ -3,7 +3,7 @@
 一个简单清爽の前端框架
 
 [查看文档](https://finxel.github.io/liuliui)
-[在JsDelivr查看包](hhttps://cdn.jsdelivr.net/gh/finxel/LiuliUI/)
+[在JsDelivr查看包](https://cdn.jsdelivr.net/gh/finxel/LiuliUI/)
 
 - 纯css打造，开箱即用
 - 直接开肝，无需脚手架
